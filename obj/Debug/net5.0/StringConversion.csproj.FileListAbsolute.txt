@@ -1,0 +1,12 @@
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\bin\Debug\net5.0\StringConversion.deps.json
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\bin\Debug\net5.0\StringConversion.dll
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\bin\Debug\net5.0\ref\StringConversion.dll
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\bin\Debug\net5.0\StringConversion.pdb
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\StringConversion.csproj.AssemblyReference.cache
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\StringConversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\StringConversion.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\StringConversion.AssemblyInfo.cs
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\StringConversion.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\StringConversion.dll
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\ref\StringConversion.dll
+C:\Users\Filip\Desktop\Organised\C#\StringConversion\obj\Debug\net5.0\StringConversion.pdb
